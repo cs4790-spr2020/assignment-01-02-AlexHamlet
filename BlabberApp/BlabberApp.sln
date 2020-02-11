@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.Client", "..\BlabberApp.Client\BlabberApp.Client.csproj", "{6C956419-D026-424B-B64C-A1BCFAA01FCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.Client", ".\BlabberApp.Client\BlabberApp.Client.csproj", "{6C956419-D026-424B-B64C-A1BCFAA01FCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.DataStore", "..\BlabberApp.DataStore\BlabberApp.DataStore.csproj", "{7283E286-AC5C-4B5E-885C-453876C55BCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.DataStore", ".\BlabberApp.DataStore\BlabberApp.DataStore.csproj", "{7283E286-AC5C-4B5E-885C-453876C55BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.DataStoreTest", "..\BlabberApp.DataStoreTest\BlabberApp.DataStoreTest.csproj", "{98504E7C-E13E-43FE-9E9E-A6C45DDEBEB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.DataStoreTest", ".\BlabberApp.DataStoreTest\BlabberApp.DataStoreTest.csproj", "{98504E7C-E13E-43FE-9E9E-A6C45DDEBEB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.WebApi", "..\BlabberApp.WebApi\BlabberApp.WebApi.csproj", "{4F256126-0D13-469E-AFD8-D3ECB8EE0318}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlabberApp.WebApi", ".\BlabberApp.WebApi\BlabberApp.WebApi.csproj", "{4F256126-0D13-469E-AFD8-D3ECB8EE0318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
